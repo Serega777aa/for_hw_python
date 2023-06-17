@@ -16,8 +16,8 @@ while chance > 0:
     else:
         print('Угадали')
         break
-if chance == 0:
-    print('Вы не угодали')
+else:
+    print('Вы не угaдали')
 
 
 
