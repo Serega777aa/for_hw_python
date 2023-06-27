@@ -19,3 +19,4 @@ words = ['привет', 'hello']
 
 change_var()
 print(f'{nums=}  {num=} \n{words=}  {word=} \n{s=} \n{number=}')
+
