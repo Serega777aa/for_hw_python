@@ -50,3 +50,5 @@ print(cow.get_info())
 factory_2 = Factory(Fish, 'guppy', 20)
 fish = factory_2.create_instance()
 print(fish.get_info())
+
+
